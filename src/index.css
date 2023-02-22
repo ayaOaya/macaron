@@ -4,11 +4,10 @@
 @tailwind utilities;
 
 .bground{
-  background-image: url(../public/img/Untitled\ \(48\).png);
-  background-position: center center;
+  background-image: url(../public/img/Untitled\ \(53\).png);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 110vh;
+  height: 100vh;
 }
 
 body {
@@ -18,7 +17,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .header{
-  background-color: #FFC0CB;
+  background-color: #8A555F;
 }
 
 .navbar {
@@ -45,3 +44,18 @@ body {
 }
  */
 
+ .RONS{
+  margin-left: 33rem;
+  margin-top: 60rem;
+ }
+.lady{
+  width: 370px;
+  height: 400px;
+  float: left;
+  position: relative;
+  background-size: cover;
+}
+.se1{
+  background-color: antiquewhite;
+  height: 100vh;
+}
